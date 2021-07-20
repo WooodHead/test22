@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "Blog",
+  "main": "index.js",
+  "authors": {
+    "name": "WooodHead",
+    "email": "jcwsw129@gmail.com"
+  },
+  "repository": "https://github.com/WooodHead/test22",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
